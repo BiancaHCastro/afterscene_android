@@ -1,8 +1,14 @@
 # AfterScene
 
+Aluno(a): Maria Bianca Holanda de Castro
+
+Entrega: 05/07/2026
+
+Tive essa ideia ao pensar em aplicações como o Skoob (registrar leituras de livros e publicar suas próprias resenhas), IMDB, entre outros, gosto muito de ler livros (principalmente fantasia) e séries, filmes, animes. A ideia é registrar as emoçoes que VOCÊ sentiu ao consumir aquela obra, partindo do ponto que consumimos muito entretenimento e tudo ocorre muito rápido em nossa sociedade liquida, é importante registrar aquilo que sentimos, que nos faz humanos.
+
 ## Sobre o Projeto
 
-O **AfterScene** é um aplicativo Android desenvolvido em **Kotlin** com o objetivo de permitir ao usuário criar um catálogo pessoal de filmes, séries, animes e doramas, registrando não apenas informações da obra, mas também a emoção que ela despertou durante a experiência. Tive essa ideia ao pensar em aplicações como o Skoob (registrar leituras de livros e publicar suas próprias resenhas), IMDB, entre outros, a ideia é registrar as emoçoes que VOCÊ sentiu ao consumir aquela obra, partindo do ponto que consumimos muito entretenimento e tudo ocorre muito rápido em nossa sociedade liquida, é importante registrar aquilo que sentimos, que nos faz humanos.
+O **AfterScene** é um aplicativo Android desenvolvido em **Kotlin** com o objetivo de permitir ao usuário criar um catálogo pessoal de filmes, séries, animes e doramas, registrando não apenas informações da obra, mas também a emoção que ela despertou durante a experiência. 
 
 O aplicativo foi desenvolvido como projeto para o curso de Android do Capacita, priorizando uma implementação simples, organizada e seguindo os principais conceitos de desenvolvimento Android moderno.
 
